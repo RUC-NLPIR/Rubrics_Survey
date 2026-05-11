@@ -121,7 +121,7 @@ Please kindly cite our paper if this repository helps your research:
 
 1. **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning**, _Zhou et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.16949)\]
 2. **Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**, _Zhang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20046)\]
-3. 
+
 ### Rubrics for Reward Model Training
 
 #### Rubrics for Interpretability
