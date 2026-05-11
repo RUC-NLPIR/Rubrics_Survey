@@ -94,10 +94,34 @@ Please kindly cite our paper if this repository helps your research:
 
 #### Standard Rubric-based RL
 
+1. **Checklists are better than reward models for aligning language models**, _Viswanathan et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2507.18624)\]
+2. **Training AI Co-Scientists Using Rubric Rewards**, _Goel et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2512.23707)\]
+3. **Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**, _Gunjal et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2507.17746)\]
+4. **Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**, _Jia et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.14069)\]
+5. **Chasing the Tail: Effective Rubric-based Reward Modeling for Large Language Model Post-Training**, _Zhang et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2509.21500)\]
+6. **RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation Tasks**, _Wu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2511.01758)\]
+7. **Visual Preference Optimization with Rubric Rewards**, _Yu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.13029)\]
+8. **AutoRubric-R1V: Rubric-Based Generative Rewards for Faithful Multimodal Reasoning**, _Jia et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.14738)\]
+9. **Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**, _Sheng et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.10885)\]
+10. **Dr Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**, _Shao et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2511.19399)\]
+11. **OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis**, _Fan et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.06366)\]
+
 #### Advanced Reward Design
+
+1. **Rule Based Rewards for Language Model Safety**, _Mu et al._, NeurIPS 2024. \[[Paper](https://arxiv.org/abs/2411.01111)\]
+2. **Reinforcement Learning with Rubric Anchors**, _Huang et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.12790)\]
+3. **Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards**, _Lyu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.22511)\]
+4. **StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.02637)\]
+5. **RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.21628)\]
+6. **Alternating Reinforcement Learning with Contextual Rubric Rewards**, _Lan_, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.15646)\]
+7. **Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**, _Tan et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.26535)\]
+8. **Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks**, _Xu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.02795)\]
 
 #### Rubrics as Policy Guidance
 
+1. **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning**, _Zhou et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.16949)\]
+2. **Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**, _Zhang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20046)\]
+3. 
 ### Rubrics for Reward Model Training
 
 #### Rubrics for Interpretability
