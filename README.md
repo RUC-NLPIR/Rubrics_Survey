@@ -115,12 +115,13 @@ Please kindly cite our paper if this repository helps your research:
 5. **RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**, _Chen et al._, ICML 2026. \[[Paper](https://arxiv.org/abs/2602.21628.pdf)\]
 6. **Alternating Reinforcement Learning with Contextual Rubric Rewards**, _Lan_, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.15646.pdf)\]
 7. **Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**, _Tan et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.26535.pdf)\]
-8. **Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks**, _Xu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.02795.pdf)\]
-
+8. **Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks**, _Xu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2506.13351.pdf)\]
+9. **Direct Reasoning Optimization: Token-Level Reasoning Reflectivity Meets Rubric Gates for Unverifiable Tasks**, _
 #### Rubrics as Policy Guidance
 
 1. **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning**, _Zhou et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.16949.pdf)\]
 2. **Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**, _Zhang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20046.pdf)\]
+3. **Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance**, _Yu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2605.07461.pdf)\]
 
 ### Rubrics for Reward Model Training
 
