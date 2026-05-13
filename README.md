@@ -127,9 +127,25 @@ Please kindly cite our paper if this repository helps your research:
 
 #### Rubrics for Interpretability
 
+1. **R3: Robust Rubric-Agnostic Reward Models**, _Anugraha et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.13388.pdf)\]
+2. **Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards**, _Yuan et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2510.07774.pdf)\]
+3. **mR3: Multilingual Rubric-Agnostic Reward Reasoning Models**, _Anugraha et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2510.01146.pdf)\]
+4. **Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis**, _Kong et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.00846.pdf)\]
+5. **CDRRM: Contrast-Driven Rubric Generation for Reliable and Interpretable Reward Modeling**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2603.08035.pdf)\]
+6. **C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences**, _Kawabata et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2604.13618.pdf)\]
+7. **DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2605.09269.pdf)\]
+8. **Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**, _Wang et al._, ENNLP (Findings) 2024. \[[Paper](https://arxiv.org/pdf/2406.12845.pdf)\] 
+9. **A Rubric-Supervised Critic from Sparse Real-World Outcomes**, _Wang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2603.03800.pdf)\]
+10. **Multidimensional Rubric-oriented Reward Model Learning via Geometric Projection Reference Constraints**, _Jin et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2511.16139.pdf)\]
+
 #### Rubrics for Reward Signals
 
+1. **Outcome Accuracy is Not Enough: Aligning the Reasoning Process of Reward Models**, _Wang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.04649.pdf)\]
+2. **Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLM Reward Models**, _Qiu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2603.16600.pdf)\]
+
 #### Rubrics for Data Construction
+
+1. **Robust Reward Modeling via Causal Rubrics**, _Srivastava et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2506.16507.pdf)\]
 
 ## Rubrics for Evaluation
 
