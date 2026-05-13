@@ -147,10 +147,11 @@ Please kindly cite our paper if this repository helps your research:
 
 ### Evaluation for Rubrics
 
-1. **RIFT: A RubrIc Failure Mode Taxonomy and Automated Diagnostics**, _Qi et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.01375.pdf)\]
-2. **RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation**, _Dhole et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20882.pdf)\]
-3. **Rubric-Guided Fine-tuning of SpeechLLMs for Multi-Aspect, Multi-Rater L2 Reading-Speech Assessment**, _Parikh et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.16889.pdf)\]
-4. **Comparing Developer and LLM Biases in Code Evaluation**, _Mittal et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.24586.pdf)\]
+1. **Rift: A rubric failure mode taxonomy and automated diagnostics**, _Qi et al._, ICLR 2026 Workshop, \[[Paper](https://openreview.net/forum?id=tCxZYDLvuu)\]
+2. **RubricRAG: Towards interpretable and reliable llm evaluation via domain knowledge retrieval for rubric generation**, _Dhole et al._, SIGIR 2026, \[[Paper](https://arxiv.org/abs/2603.20882)\]
+3. **Rubric-guided fine-tuning of speechllms for multi-aspect, multi-rater l2 reading-speech assessment**, _Parikh et al._, LREC 2026, \[[Paper](https://arxiv.org/abs/2603.16889)\]
+4. **Comparing developer and llm biases in code evaluation**, _Mittal et al._, \[[Paper](https://arxiv.org/abs/2603.24586)\]
+
 
 ## Rubrics for Model Training
 
