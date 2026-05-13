@@ -153,25 +153,103 @@ Please kindly cite our paper if this repository helps your research:
 
 #### Reasoning Capability Evaluation
 
+1. **Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**, _Zhou et al._, arXiv 2024. \[[Paper](https://arxiv.org/abs/2407.08733)\]
+2. **SedarEval: Automated Evaluation using Self-Adaptive Rubrics**, _Fan et al._, Findings of EMNLP 2024. \[[Paper](https://doi.org/10.18653/v1/2024.findings-emnlp.984)\]
+3. **RefGrader: Automated Grading of Mathematical Competition Proofs using Agentic Workflows**, _Mahdavi et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.09021)\]
+4. **Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics**, _Pathak et al._, ICER 2025. \[[Paper](http://dx.doi.org/10.1145/3702652.3744220)\]
+5. **Comparing Developer and LLM Biases in Code Evaluation**, _Mittal et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.24586)\]
+6. **ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge**, _Wang et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.18941)\]
+7. **\$OneMillion-Bench: How Far are Language Agents from Human Experts?**, _Yang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.07980)\]
+8. **MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes**, _Chiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.16380)\]
+9. **Qworld: Question-Specific Evaluation Criteria for LLMs**, _Gao et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23522)\]
+10. **An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs**, _Ma et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.14660)\]
+
 #### Deep Research and Open-Ended Generation Evaluation
+
+1. **HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models**, _Que et al._, arXiv 2024. \[[Paper](https://arxiv.org/abs/2409.16191)\]
+2. **WritingBench: A Comprehensive Benchmark for Generative Writing**, _Wu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2503.05244)\]
+3. **DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**, _Du et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2506.11763)\]
+4. **DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.08536)\]
+5. **DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation**, _Han et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2512.17776)\]
+6. **ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents**, _Sharma et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2511.07685)\]
+7. **MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome**, _Ye et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.28407)\]
+8. **Pencils Down! Automatic Rubric-based Evaluation of Retrieve/Generate Systems**, _Farzi et al._, ICTIR 2024. \[[Paper](https://doi.org/10.1145/3664190.3672511)\]
+9. **Auto-Rubric: Learning to Extract Generalizable Criteria for Reward Modeling**, _Xie et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.17314)\]
+10. **RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.08430)\]
 
 #### General Agent Capability Evaluation
 
+1. **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**, _Ma et al._, arXiv 2024. \[[Paper](https://arxiv.org/abs/2401.13178)\]
+2. **AdaRubric: Task-Adaptive Rubrics for LLM Agent Evaluation**, _Ding_, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.21362)\]
+3. **TRAJECT-Bench: A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use**, _He et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.04550)\]
+4. **MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers**, _Luo et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.14704)\]
+5. **MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs**, _Sirdeshmukh et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2501.17399)\]
+6. **SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models**, _Jiang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.03555)\]
+7. **ASTRA-bench: Evaluating Tool-Use Agent Reasoning and Action Planning with Personal User Context**, _Xiu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.01357)\]
+8. **PaperBench: Evaluating AI's Ability to Replicate AI Research**, _Starace et al._, ICML 2025. \[[Paper](https://proceedings.mlr.press/v267/starace25a.html)\]
+9. **Dr Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**, _Shao et al._, ICML 2026. \[[Paper](https://arxiv.org/abs/2511.19399)\]
+
 #### Alignment Evaluation
+
+1. **FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**, _Ye et al._, ICLR 2024. \[[Paper](https://proceedings.iclr.cc/paper_files/paper/2024/hash/f41b4a6b202adcd8e150a9d4f124d8f6-Abstract-Conference.html)\]
+2. **InFoBench: Evaluating Instruction Following Ability in Large Language Models**, _Qin et al._, Findings of ACL 2024. \[[Paper](https://aclanthology.org/2024.findings-acl.772/)\]
+3. **AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following**, _He et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2511.10507)\]
+4. **WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild**, _Lin et al._, ICLR 2025. \[[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/771155abaae744e08576f1f3b4b7ac0d-Abstract-Conference.html)\]
+5. **G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment**, _Liu et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.153/)\]
+6. **Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**, _Kim et al._, ICLR 2024. \[[Paper](https://proceedings.iclr.cc/paper_files/paper/2024/hash/803485352e61e3ebf41221e4776c9fd4-Abstract-Conference.html)\]
+7. **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena**, _Zheng et al._, NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2306.05685)\]
+8. **RubricEval: A Rubric-Level Meta-Evaluation Benchmark for LLM Judges in Instruction Following**, _Pan et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.25133)\]
+9. **RubricBench: Aligning Model-Generated Rubrics with Human Standards**, _Zhang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.01562)\]
+10. **JudgeBench: A Benchmark for Evaluating LLM-based Judges**, _Tan et al._, ICLR 2025. \[[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/9e720fce64f91114c49cfd640d821da3-Abstract-Conference.html)\]
+11. **A StrongREJECT for Empty Jailbreaks**, _Souly et al._, arXiv 2024. \[[Paper](https://arxiv.org/abs/2402.10260)\]
 
 ### Rubrics for Specific Task Evaluation
 
 #### Rubrics for Intermediate Trajectories
 
+1. **PaperBench: Evaluating AI's Ability to Replicate AI Research**, _Starace et al._, ICML 2025. \[[Paper](https://proceedings.mlr.press/v267/starace25a.html)\]
+2. **MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes**, _Chiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.16380)\]
+3. **ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge**, _Wang et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.18941)\]
+4. **Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics**, _Pathak et al._, ICER 2025. \[[Paper](http://dx.doi.org/10.1145/3702652.3744220)\]
+5. **SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models**, _Jiang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.03555)\]
+
 #### Rubrics for Final Outputs
 
 #### Content Quality and Factuality
 
+1. **Pencils Down! Automatic Rubric-based Evaluation of Retrieve/Generate Systems**, _Farzi et al._, ICTIR 2024. \[[Paper](https://doi.org/10.1145/3664190.3672511)\]
+2. **DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**, _Du et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2506.11763)\]
+3. **DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.08536)\]
+4. **HealthBench: Evaluating Large Language Models Towards Improved Human Health**, _Arora et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2505.08775)\]
+5. **PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning**, _Akyurek et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2511.11562)\]
+6. **ASTRA-bench: Evaluating Tool-Use Agent Reasoning and Action Planning with Personal User Context**, _Xiu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.01357)\]
+7. **SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models**, _Jiang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.03555)\]
+8. **TechImage-Bench: Rubric-Based Evaluation for Technical Image Generation**, _Ni et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2512.12220)\]
+9. **A Benchmark and Agentic Framework for Omni-Modal Reasoning and Tool Use in Long Videos**, _Kurpath et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2512.16978)\]
+
 #### Safety and Risk Auditing
+
+1. **HealthBench: Evaluating Large Language Models Towards Improved Human Health**, _Arora et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2505.08775)\]
+2. **RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation**, _Dhole et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20882)\]
+3. **MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes**, _Chiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.16380)\]
+4. **Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability**, _Winata et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2506.01789)\]
 
 #### Professional Presentation and Structural Coherence
 
+1. **DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation**, _Han et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2512.17776)\]
+2. **ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge**, _Wang et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.18941)\]
+3. **\$OneMillion-Bench: How Far are Language Agents from Human Experts?**, _Yang et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.07980)\]
+4. **From Intuition to Calibrated Judgment: A Rubric-Based Expert-Panel Study of Human Detection of LLM-Generated Korean Text**, _Park et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.19913)\]
+5. **PresentBench: A Fine-Grained Rubric-Based Benchmark for Slide Generation**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.07244)\]
+6. **Rubric-Guided Fine-tuning of SpeechLLMs for Multi-Aspect, Multi-Rater L2 Reading-Speech Assessment**, _Parikh et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.16889)\]
+
 #### Practical Utility and Actionability
+
+1. **DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation**, _Han et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2512.17776)\]
+2. **MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes**, _Chiu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.16380)\]
+3. **PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning**, _Akyurek et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2511.11562)\]
+4. **ASTRA-bench: Evaluating Tool-Use Agent Reasoning and Action Planning with Personal User Context**, _Xiu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.01357)\]
+5. **LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts**, _Hashemi et al._, ACL 2024. \[[Paper](https://aclanthology.org/2024.acl-long.745/)\]
 
 
 ## Contributing
