@@ -147,7 +147,7 @@ Please kindly cite our paper if this repository helps your research:
 
 ### Evaluation for Rubrics
 
-1. **Rift: A rubric failure mode taxonomy and automated diagnostics**, _Qi et al._, ICLR 2026 Workshop, \[[Paper](https://openreview.net/forum?id=tCxZYDLvuu)\]
+1. **Rift: A rubric failure mode taxonomy and automated diagnostics**, _Qi et al._, ICLR 2026 Workshop DATA-FM, \[[Paper](https://openreview.net/forum?id=tCxZYDLvuu)\]
 2. **RubricRAG: Towards interpretable and reliable llm evaluation via domain knowledge retrieval for rubric generation**, _Dhole et al._, SIGIR 2026, \[[Paper](https://arxiv.org/abs/2603.20882)\]
 3. **Rubric-guided fine-tuning of speechllms for multi-aspect, multi-rater l2 reading-speech assessment**, _Parikh et al._, LREC 2026, \[[Paper](https://arxiv.org/abs/2603.16889)\]
 4. **Comparing developer and llm biases in code evaluation**, _Mittal et al._, \[[Paper](https://arxiv.org/abs/2603.24586)\]
