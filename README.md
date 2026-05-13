@@ -78,15 +78,79 @@ Please kindly cite our paper if this repository helps your research:
 
 ## Rubrics Construction
 
+### Background and Rubric-like Evaluation Structures
+
+1. **FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**, _Ye et al._, ICLR 2024. \[[Paper](https://arxiv.org/abs/2307.10928.pdf)\]
+2. **Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**, _Kim et al._, ICLR 2024. \[[Paper](https://arxiv.org/abs/2310.08491.pdf)\]
+3. **Rule Based Rewards for Language Model Safety**, _Mu et al._, NeurIPS 2024. \[[Paper](https://arxiv.org/abs/2411.01111.pdf)\]
+4. **Reinforcement Learning with Rubric Anchors**, _Huang et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2508.12790.pdf)\]
+
 ### Direct Generation
+
+1. **Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**, _Gunjal et al._, ICLR 2026. \[[Paper](https://arxiv.org/abs/2507.17746.pdf)\]
+2. **Checklists Are Better Than Reward Models For Aligning Language Models**, _Viswanathan et al._, NeurIPS 2025. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/a6837c1dd021f76f1b4098e3722052a8-Paper-Conference.pdf)\]
+3. **CARMO: Dynamic Criteria Generation for Context Aware Reward Modelling**, _Gupta et al._, Findings of ACL 2025. \[[Paper](https://aclanthology.org/2025.findings-acl.114/)\]
+4. **WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild**, _Lin et al._, ICLR 2025. \[[Paper](https://arxiv.org/abs/2406.04770.pdf)\]
+5. **SedarEval: Automated Evaluation using Self-Adaptive Rubrics**, _Fan et al._, Findings of EMNLP 2024. \[[Paper](https://aclanthology.org/2024.findings-emnlp.984/)\]
+6. **WritingBench: A Comprehensive Benchmark for Generative Writing**, _Wu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2503.05244.pdf)\]
 
 ### Contrastive Generation
 
+1. **CDRRM: Contrast-Driven Rubric Generation for Reliable and Interpretable Reward Modeling**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.08035.pdf)\]
+2. **Chasing the Tail: Effective Rubric-based Reward Modeling for Large Language Model Post-Training**, _Zhang et al._, ICLR 2026. \[[Paper](https://arxiv.org/abs/2509.21500.pdf)\]
+3. **OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment**, _Liu et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.07743.pdf)\]
+4. **Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLM Reward Models**, _Qiu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.16600.pdf)\]
+5. **Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation**, _Lv et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.03619.pdf)\]
+
 ### Iterative Refinement and Structural Induction
+
+#### Verification-Driven Refinement
+
+1. **Auto-Rubric: Learning From Implicit Weights to Explicit Rubrics for Reward Modeling**, _Xie et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.17314.pdf)\]
+2. **OptimSyn: Influence-Guided Rubrics Optimization for Synthetic Data Generation**, _Fan et al._, ICLR 2026. \[[Paper](https://arxiv.org/abs/2604.00536.pdf)\]
+
+#### Structural Decomposition
+
+1. **Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks**, _Shen et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.05125.pdf)\]
+2. **Qworld: Question-Specific Evaluation Criteria for LLMs**, _Gao et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.23522.pdf)\]
+3. **An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs**, _Ma et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.14660.pdf)\]
+4. **RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.08430.pdf)\]
+5. **Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics**, _Pathak et al._, ICER 2025. \[[Paper](https://doi.org/10.1145/3702652.3744220)\]
+6. **DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.08536.pdf)\]
+7. **RefGrader: Automated Grading of Mathematical Competition Proofs using Agentic Workflows**, _Mahdavi et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.09021.pdf)\]
+8. **RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation**, _Dhole et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20882.pdf)\]
+9. **InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-Based Incremental Training**, _Wang et al._, ICML 2026. \[[Paper](https://arxiv.org/abs/2510.15859.pdf)\]
+
+#### De-duplication and Compression
+
+1. **Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling**, _Sanders et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.06795.pdf)\]
+2. **Confusion-Aware Rubric Optimization for LLM-based Automated Grading**, _Chu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.00451.pdf)\]
 
 ### Online and Co-evolving Generation
 
+#### Rollout-Based Evolving Rubrics
+
+1. **DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**, _Shao et al._, ICML 2026. \[[Paper](https://arxiv.org/abs/2511.19399.pdf)\]
+
+#### Online and Alternating Optimization of Rubric Generators
+
+1. **Online Rubrics Elicitation from Pairwise Comparisons**, _Rezaei et al._, ICML 2026. \[[Paper](https://arxiv.org/abs/2510.07284.pdf)\]
+2. **Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training**, _Xu et al._, ICML 2026. \[[Paper](https://arxiv.org/abs/2602.01511.pdf)\]
+
+#### Self-Evolving, Adversarial, and Memory-Driven Rubrics
+
+1. **SibylSense: Adaptive Rubric Learning via Memory Tuning and Adversarial Probing**, _Xu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.20751.pdf)\]
+2. **Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**, _Jia et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.14069.pdf)\]
+3. **Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**, _Sheng et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.10885.pdf)\]
+4. **AutoRubric: Rubric-Based Generative Rewards for Faithful Multimodal Reasoning**, _Jia et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.14738.pdf)\]
+5. **RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation Tasks**, _Wu et al._, ICLR 2026. \[[Paper](https://arxiv.org/abs/2511.01758.pdf)\]
+
 ### Evaluation for Rubrics
+
+1. **RIFT: A RubrIc Failure Mode Taxonomy and Automated Diagnostics**, _Qi et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.01375.pdf)\]
+2. **RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation**, _Dhole et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20882.pdf)\]
+3. **Rubric-Guided Fine-tuning of SpeechLLMs for Multi-Aspect, Multi-Rater L2 Reading-Speech Assessment**, _Parikh et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.16889.pdf)\]
+4. **Comparing Developer and LLM Biases in Code Evaluation**, _Mittal et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.24586.pdf)\]
 
 ## Rubrics for Model Training
 
