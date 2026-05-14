@@ -29,9 +29,10 @@ Please kindly cite our paper if this repository helps your research:
 ## 📋 Table of Content
 
 - [Rubrics Construction](https://github.com/8421BCD/Rubrics_Survey/tree/main#rubrics-construction)
+  - [Background](https://github.com/8421BCD/Rubrics_Survey/tree/main#background)
   - [Direct Generation](https://github.com/8421BCD/Rubrics_Survey/tree/main#direct-generation)
   - [Contrastive Generation](https://github.com/8421BCD/Rubrics_Survey/tree/main#contrastive-generation)
-  - [Iterative Refinement and Structural Induction](https://github.com/8421BCD/Rubrics_Survey/tree/main#iterative-refinement-and-structural-induction)
+  - [Iterative Refinement](https://github.com/8421BCD/Rubrics_Survey/tree/main#iterative-refinement)
     - [Verification-Driven Refinement](https://github.com/8421BCD/Rubrics_Survey/tree/main#verification-driven-refinement)
     - [Structural Decomposition](https://github.com/8421BCD/Rubrics_Survey/tree/main#structural-decomposition)
     - [De-duplication and Compression](https://github.com/8421BCD/Rubrics_Survey/tree/main#de-duplication-and-compression)
@@ -78,7 +79,7 @@ Please kindly cite our paper if this repository helps your research:
 
 ## Rubrics Construction
 
-### Background and Rubric-like Evaluation Structures
+### Background
 
 1. **FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**, _Ye et al._, ICLR 2024. \[[Paper](https://arxiv.org/abs/2307.10928.pdf)\]
 2. **Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**, _Kim et al._, ICLR 2024. \[[Paper](https://arxiv.org/abs/2310.08491.pdf)\]
@@ -102,7 +103,7 @@ Please kindly cite our paper if this repository helps your research:
 4. **Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLM Reward Models**, _Qiu et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.16600.pdf)\]
 5. **Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation**, _Lv et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2602.03619.pdf)\]
 
-### Iterative Refinement and Structural Induction
+### Iterative Refinement
 
 #### Verification-Driven Refinement
 
