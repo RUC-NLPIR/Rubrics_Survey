@@ -65,13 +65,6 @@ Feel free to contact us if you find a mistake, missing paper, or have any sugges
       - [Safety and Risk Auditing](https://github.com/8421BCD/Rubrics_Survey/tree/main#safety-and-risk-auditing)
       - [Professional Presentation and Structural Coherence](https://github.com/8421BCD/Rubrics_Survey/tree/main#professional-presentation-and-structural-coherence)
       - [Practical Utility and Actionability](https://github.com/8421BCD/Rubrics_Survey/tree/main#practical-utility-and-actionability)
-- [Other Resources](https://github.com/8421BCD/Rubrics_Survey/tree/main#other-resources)
-  - [Datasets](https://github.com/8421BCD/Rubrics_Survey/tree/main#datasets)
-  - [Benchmarks](https://github.com/8421BCD/Rubrics_Survey/tree/main#benchmarks)
-  - [Toolkits](https://github.com/8421BCD/Rubrics_Survey/tree/main#toolkits)
-  - [Blog Posts and Tutorials](https://github.com/8421BCD/Rubrics_Survey/tree/main#blog-posts-and-tutorials)
-- [Contributing](https://github.com/8421BCD/Rubrics_Survey/tree/main#contributing)
-- [Contact](https://github.com/8421BCD/Rubrics_Survey/tree/main#contact)
   
 ## 📄 Paper List
 
