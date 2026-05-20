@@ -324,17 +324,6 @@ You can contribute by:
 - Suggesting better taxonomy or section organization.
 - Opening issues for discussion.
 
-Suggested paper entry format:
-
-```markdown
-1. **Paper Title**, _Author et al._, Venue Year. \[[Paper](paper_url)\] \[[Code](code_url)\] \[[Project](project_url)\]
-```
-
-If a paper has no code or project page, you can omit the corresponding link:
-
-```markdown
-1. **Paper Title**, _Author et al._, Venue Year. \[[Paper](paper_url)\]
-```
 
 ## 📞 Contact
 
