@@ -24,7 +24,7 @@ Feel free to contact us if you find a mistake, missing paper, or have any sugges
 
 ## 🚀 Update Log
 
-- Version 1 \[2026-5-20\]
+- Version 1 \[2026-5-18\]
   - We release the first version of our survey paper, [Paper link](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf).
 
 ## 📋 Table of Content
