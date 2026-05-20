@@ -9,7 +9,6 @@
 <a href="https://github.com/8421BCD/Rubrics_Survey/pulls" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-green?logo=mercadopago&logoColor=white"></a>
 </div>
 
-
 ## 👋 Introduction
 
 As large language models (LLMs) are increasingly used for reasoning, tool use, agentic interaction, and high-stakes decision-making, **it becomes harder to define what makes a model response “good”**. Rubrics provide a structured way to express multi-dimensional quality standards, such as factuality, completeness, safety, reasoning soundness, evidence grounding, and practical utility, making them useful for both model training and evaluation.
@@ -17,6 +16,10 @@ As large language models (LLMs) are increasingly used for reasoning, tool use, a
 This repository maintains the paper list for our survey, **[The Rules of the Game: A Survey of Rubrics for Large Language Models](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf)**. The survey first formalizes rubrics and compares them with reward models, verifiable rewards, and LLM-as-a-judge. It then organizes existing work into three directions: **rubrics construction**, **rubrics for model training**, and **rubrics for evaluation**, followed by discussions on open challenges such as reward hacking, evaluation bias, personalization, and rubric safety.
 
 Feel free to contact us if you find a mistake, missing paper, or have any suggestions.
+
+<p align="center">
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/119333d6-e0d0-44b0-8723-c811bc0236f3" />
+</p>
 
 
 ## 🚀 Update Log
