@@ -275,7 +275,7 @@ Feel free to contact us if you find a mistake, missing paper, or have any sugges
 
 #### Rubrics for Final Outputs
 
-#### Content Quality and Factuality
+#### Content Factuality
 
 1. **Pencils Down! Automatic Rubric-based Evaluation of Retrieve/Generate Systems**, _Farzi et al._, ICTIR 2024. \[[Paper](https://doi.org/10.1145/3664190.3672511)\]
 2. **DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**, _Du et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2506.11763)\]
@@ -287,7 +287,7 @@ Feel free to contact us if you find a mistake, missing paper, or have any sugges
 8. **TechImage-Bench: Rubric-Based Evaluation for Technical Image Generation**, _Ni et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2512.12220)\]
 9. **A Benchmark and Agentic Framework for Omni-Modal Reasoning and Tool Use in Long Videos**, _Kurpath et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2512.16978)\]
 
-#### Safety and Risk Auditing
+#### Safety Auditing
 
 1. **HealthBench: Evaluating Large Language Models Towards Improved Human Health**, _Arora et al._, arXiv 2025. \[[Paper](https://arxiv.org/abs/2505.08775)\]
 2. **RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation**, _Dhole et al._, arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.20882)\]
