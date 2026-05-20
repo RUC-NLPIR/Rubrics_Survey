@@ -8,6 +8,7 @@
 <a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 <a href="https://github.com/8421BCD/Rubrics_Survey/pulls" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-green?logo=mercadopago&logoColor=white"></a>
 </div>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.</h5>
 
 ## 👋 Introduction
 
