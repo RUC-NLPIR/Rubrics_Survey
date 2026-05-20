@@ -1,3 +1,21 @@
+<h1 align="center">
+  <strong>The Rules of the Game: A Survey of Rubrics for Large Language Models</strong>
+</h1>
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2512.13564-b31b1b.svg?logo=arXiv)](coming soon)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-2512.13564-292929.svg?logo=huggingface)](coming soon)
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List/pulls)
+[![GitHub star chart](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List?style=social)](https://star-history.com/#Shichun-Liu/Agent-Memory-Paper-List)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
+[![Semantic Scholar Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd362b7619fcd2df4241696a19aec95961b8a729c%3Ffields%3DcitationCount&logo=semanticscholar&cacheSeconds=3600)](https://www.semanticscholar.org/paper/d362b7619fcd2df4241696a19aec95961b8a729c)
+
+
+</div>
+
+
+
 # Rubrics Survey
 
 This is a collection of papers related to **rubrics for large language models**. These papers are organized according to our survey paper:
