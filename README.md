@@ -18,23 +18,11 @@ This repository maintains the paper list for our survey, **[The Rules of the Gam
 
 Feel free to contact us if you find a mistake, missing paper, or have any suggestions.
 
-## 🌟 Citation
-
-Please kindly cite our paper if this repository helps your research:
-
-```bibtex
-@article{RubricsSurvey,
-  title={Rubrics for Large Language Models: Generation, Optimization, Evaluation, and Challenges},
-  author={},
-  journal={arXiv preprint},
-  year={2026}
-}
-```
 
 ## 🚀 Update Log
 
-- Version 1 \[2026-XX-XX\]
-  - We release the first version of this repository.
+- Version 1 \[2026-5-20\]
+  - We release the first version of our survey paper.
 
 ## 📋 Table of Content
 
