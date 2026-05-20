@@ -3,26 +3,18 @@
 </h1>
 
 <div align="center">
-
-[![arXiv](https://img.shields.io/badge/Arxiv-2512.13564-b31b1b.svg?logo=arXiv)](coming soon)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-2512.13564-292929.svg?logo=huggingface)](coming soon)
-[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List/pulls)
-[![GitHub star chart](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List?style=social)](https://star-history.com/#Shichun-Liu/Agent-Memory-Paper-List)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
-[![Semantic Scholar Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd362b7619fcd2df4241696a19aec95961b8a729c%3Ffields%3DcitationCount&logo=semanticscholar&cacheSeconds=3600)](https://www.semanticscholar.org/paper/d362b7619fcd2df4241696a19aec95961b8a729c)
-
-
+<a href="https://github.com/8421BCD/Rubrics_Survey/Rubrics_Survey.pdf" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Arxiv%20Paper-Coming%20soon-blue"></a>
+<a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+<a href="https://github.com/8421BCD/Rubrics_Survey/pulls" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-green?logo=mercadopago&logoColor=white"></a>
 </div>
 
 
+## 👋 Introduction
 
-# Rubrics Survey
+As large language models (LLMs) move from general text generation toward reasoning, tool use, long-horizon problem solving, and high-stakes applications, it becomes increasingly difficult to specify what makes a model response truly “good”. Simple correctness signals, holistic preference scores, and unconstrained LLM-as-a-judge evaluations are often insufficient for open-ended tasks, where quality depends on multiple dimensions such as factuality, completeness, safety, reasoning soundness, evidence grounding, and practical utility. Rubrics provide a structured way to make these evaluation standards explicit, interpretable, and operational, serving as a unified interface for both model training and evaluation.
 
-This is a collection of papers related to **rubrics for large language models**. These papers are organized according to our survey paper:
-
-**Rubrics for Large Language Models: Generation, Optimization, Evaluation, and Challenges**
-
-Rubrics provide explicit, interpretable, and multi-dimensional evaluation criteria for assessing and improving large language models. This repository aims to maintain an up-to-date paper list for researchers interested in rubric construction, rubric-based policy model training, rubric-aware reward model training, and rubric-driven evaluation.
+This repository maintains a curated paper list for our survey, **The Rules of the Game: A Survey of Rubrics for Large Language Models**. The survey first formalizes the concept of rubrics and distinguishes them from related concepts such as reward models, verifiable rewards, and LLM-as-a-judge. It then organizes existing research into three major directions: **rubric construction**, covering direct generation, contrastive generation, iterative refinement, and online/co-evolving generation; **rubrics for model training**, including their use in policy model training and reward model training; and **rubrics for evaluation**, covering both general-task and domain-specific evaluation. Finally, we discuss open challenges such as rubric reward hacking, generalization of rubric-based reward models, evaluation bias, personalization, and rubric safety.
 
 Feel free to contact us if you find a mistake, missing paper, or have any suggestions.
 
