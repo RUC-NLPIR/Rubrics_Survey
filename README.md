@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<a href="https://8421bcd.github.io/_pages/Rubrics_Survey.pdf" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red"></a>
+<a href="https://openreview.net/pdf?id=FnSimngGYk" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Arxiv%20Paper-Coming%20soon-blue"></a>
 <a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 <a href="https://github.com/8421BCD/Rubrics_Survey/pulls" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-green?logo=mercadopago&logoColor=white"></a>
