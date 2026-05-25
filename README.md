@@ -325,6 +325,20 @@ You can contribute by:
 - Suggesting better taxonomy or section organization.
 - Opening issues for discussion.
 
+## 📄 Citation
+
+If you find this work helpful, please consider citing:
+
+```bibtex
+@misc{liu2026rubrics,
+  title={The Rules of the Game: A Survey of Rubrics for Large Language Models},
+  author={Liu, Wenhan and Jin, Jiajie and Huang, Zhaoheng and Wen, Tongyu and
+          Dong, Guanting and Zhao, Ziliang and Zhu, Yutao and Dou, Zhicheng and
+          Wen, Ji-Rong},
+  url={https://openreview.net/pdf?id=FnSimngGYk},
+  year={2026}
+}
+```
 
 ## 📞 Contact
 
