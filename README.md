@@ -14,7 +14,7 @@
 
 As large language models (LLMs) are increasingly used for reasoning, tool use, agentic interaction, and high-stakes decision-making, **it becomes harder to define what makes a model response “good”**. Rubrics provide a structured way to express multi-dimensional quality standards, such as factuality, completeness, safety, reasoning soundness, evidence grounding, and practical utility, making them useful for both model training and evaluation.
 
-This repository maintains the paper list for our survey, **[The Rules of the Game: A Survey of Rubrics for Large Language Models](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf)**. The survey first formalizes rubrics and compares them with reward models, verifiable rewards, and LLM-as-a-judge. It then organizes existing work into three directions: **rubrics construction**, **rubrics for model training**, and **rubrics for evaluation**, followed by discussions on open challenges such as reward hacking, evaluation bias, personalization, and rubric safety.
+This repository maintains the paper list for our survey, **[The Rules of the Game: A Survey of Rubrics for Large Language Models](https://openreview.net/pdf?id=FnSimngGYk)**. The survey first formalizes rubrics and compares them with reward models, verifiable rewards, and LLM-as-a-judge. It then organizes existing work into three directions: **rubrics construction**, **rubrics for model training**, and **rubrics for evaluation**, followed by discussions on open challenges such as reward hacking, evaluation bias, personalization, and rubric safety.
 
 Feel free to contact us if you find a mistake, missing paper, or have any suggestions.
 
