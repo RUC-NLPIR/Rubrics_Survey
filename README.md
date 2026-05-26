@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<a href="https://openreview.net/pdf?id=FnSimngGYk" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red"></a>
+<a href="https://8421bcd.github.io/_pages/Rubrics_Survey.pdf" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Arxiv%20Paper-Coming%20soon-blue"></a>
 <a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 <a href="https://github.com/8421BCD/Rubrics_Survey/pulls" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-green?logo=mercadopago&logoColor=white"></a>
@@ -14,7 +14,7 @@
 
 As large language models (LLMs) are increasingly used for reasoning, tool use, agentic interaction, and high-stakes decision-making, **it becomes harder to define what makes a model response “good”**. Rubrics provide a structured way to express multi-dimensional quality standards, such as factuality, completeness, safety, reasoning soundness, evidence grounding, and practical utility, making them useful for both model training and evaluation.
 
-This repository maintains the paper list for our survey, **[The Rules of the Game: A Survey of Rubrics for Large Language Models](https://openreview.net/pdf?id=FnSimngGYk)**. The survey first formalizes rubrics and compares them with reward models, verifiable rewards, and LLM-as-a-judge. It then organizes existing work into three directions: **rubrics construction**, **rubrics for model training**, and **rubrics for evaluation**, followed by discussions on open challenges such as reward hacking, evaluation bias, personalization, and rubric safety.
+This repository maintains the paper list for our survey, **[The Rules of the Game: A Survey of Rubrics for Large Language Models](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf)**. The survey first formalizes rubrics and compares them with reward models, verifiable rewards, and LLM-as-a-judge. It then organizes existing work into three directions: **rubrics construction**, **rubrics for model training**, and **rubrics for evaluation**, followed by discussions on open challenges such as reward hacking, evaluation bias, personalization, and rubric safety.
 
 Feel free to contact us if you find a mistake, missing paper, or have any suggestions.
 
@@ -26,7 +26,7 @@ Feel free to contact us if you find a mistake, missing paper, or have any sugges
 ## 🚀 Update Log
 
 - Version 1 \[2026-5-18\]
-  - We release the first version of our survey paper, [Paper link](https://openreview.net/pdf?id=FnSimngGYk).
+  - We release the first version of our survey paper, [Paper link](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf).
 
 ## 📋 Table of Content
 
