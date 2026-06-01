@@ -32,6 +32,17 @@
 - **[May 31, 2026]**: The brief introduction of our survey can be found on a series of platforms like [WeChat](https://mp.weixin.qq.com/s/m4vmMWxA7FbtB9DqSUqEpQ), [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f47003a0000000001004313/6a0d67e6000000000702750c?xsec_token=ABynLdxMmCwfqHWA3KKvEDzDXhIdIMD1vytMe_lOxO67c=&xsec_source=pc_user) and [X](https://x.com/ruc_ytz/status/2058737503948153230).
 - **[May 18, 2026]**: We release the first version of our survey paper, [Paper link](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf).
 
+## 📄 Citation
+
+If you find this work helpful, please consider citing:
+
+```bibtex
+@article{liu2026rules,
+  title={The Rules of the Game: A Survey of Rubrics for Large Language Models},
+  author={Liu, Wenhan and Jin, Jiajie and Huang, Zhaoheng and Wen, Tongyu and Dong, Guanting and Zhao, Ziliang and Zhu, Yutao and Dou, Zhicheng and Wen, Ji-Rong},
+  year={2026}
+}
+```
 
 ## 👋 Introduction
 
@@ -343,17 +354,6 @@ You can contribute by:
 - Suggesting better taxonomy or section organization.
 - Opening issues for discussion.
 
-## 📄 Citation
-
-If you find this work helpful, please consider citing:
-
-```bibtex
-@article{liu2026rules,
-  title={The Rules of the Game: A Survey of Rubrics for Large Language Models},
-  author={Liu, Wenhan and Jin, Jiajie and Huang, Zhaoheng and Wen, Tongyu and Dong, Guanting and Zhao, Ziliang and Zhu, Yutao and Dou, Zhicheng and Wen, Ji-Rong},
-  year={2026}
-}
-```
 
 ## 📞 Contact
 
