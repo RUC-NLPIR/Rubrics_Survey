@@ -330,12 +330,9 @@ You can contribute by:
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@misc{liu2026rubrics,
+@article{liu2026rules,
   title={The Rules of the Game: A Survey of Rubrics for Large Language Models},
-  author={Liu, Wenhan and Jin, Jiajie and Huang, Zhaoheng and Wen, Tongyu and
-          Dong, Guanting and Zhao, Ziliang and Zhu, Yutao and Dou, Zhicheng and
-          Wen, Ji-Rong},
-  url={https://openreview.net/pdf?id=FnSimngGYk},
+  author={Liu, Wenhan and Jin, Jiajie and Huang, Zhaoheng and Wen, Tongyu and Dong, Guanting and Zhao, Ziliang and Zhu, Yutao and Dou, Zhicheng and Wen, Ji-Rong},
   year={2026}
 }
 ```
