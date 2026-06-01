@@ -8,7 +8,26 @@
 <a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 <a href="https://github.com/8421BCD/Rubrics_Survey/pulls" target="_blank"><img src="https://img.shields.io/badge/Contributions-welcome-green?logo=mercadopago&logoColor=white"></a>
 </div>
+
+<p align="center">
+<img src="./assets/weixin.png" width="14px" style="display:inline;"> <a href="https://mp.weixin.qq.com/s/m4vmMWxA7FbtB9DqSUqEpQ" target="_blank">WeChat@机器之心</a> ｜
+<img src="./assets/xiaohongshu.png" width="14px" style="display:inline;"> <a href="https://www.xiaohongshu.com/user/profile/5f47003a0000000001004313/6a0d67e6000000000702750c?xsec_token=ABynLdxMmCwfqHWA3KKvEDzDXhIdIMD1vytMe_lOxO67c=&xsec_source=pc_user" target="_blank">Xiaohongshu</a> ｜
+<img src="./assets/x.png" width="14px" style="display:inline;"> <a href="https://x.com/ruc_ytz/status/2058737503948153230" target="_blank">X</a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+Rubrics+Survey;Powered+by+RUC-NLPIR+Lab" alt="Typing Animation" />
+</div>
+
+
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.</h5>
+
+
+## 🚀 Update Log
+
+- **[May 18, 2026]**: We release the first version of our survey paper, [Paper link](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf).
+- **[May 31, 2026]**: The brief introduction of our survey can be found on a series of platforms like [WeChat](https://mp.weixin.qq.com/s/m4vmMWxA7FbtB9DqSUqEpQ), [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f47003a0000000001004313/6a0d67e6000000000702750c?xsec_token=ABynLdxMmCwfqHWA3KKvEDzDXhIdIMD1vytMe_lOxO67c=&xsec_source=pc_user) and [X](https://x.com/ruc_ytz/status/2058737503948153230).
+
 
 ## 👋 Introduction
 
@@ -22,11 +41,6 @@ Feel free to contact us if you find a mistake, missing paper, or have any sugges
 <img width="70%" alt="image" src="https://github.com/user-attachments/assets/119333d6-e0d0-44b0-8723-c811bc0236f3" />
 </p>
 
-
-## 🚀 Update Log
-
-- Version 1 \[2026-5-18\]
-  - We release the first version of our survey paper, [Paper link](https://8421bcd.github.io/_pages/Rubrics_Survey.pdf).
 
 ## 📋 Table of Content
 
