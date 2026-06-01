@@ -12,6 +12,7 @@
 
 <p align="center">
 <img src="./assets/weixin.png" width="14px" style="display:inline;"> <a href="https://mp.weixin.qq.com/s/m4vmMWxA7FbtB9DqSUqEpQ" target="_blank">WeChat@机器之心</a> ｜
+<img src="./assets/weixin.png" width="14px" style="display:inline;"> <a href="https://mp.weixin.qq.com/s/SJJORVfD9JZldjOjLmOqhg" target="_blank">WeChat</a> ｜
 <img src="./assets/xiaohongshu.png" width="14px" style="display:inline;"> <a href="https://www.xiaohongshu.com/user/profile/5f47003a0000000001004313/6a0d67e6000000000702750c?xsec_token=ABynLdxMmCwfqHWA3KKvEDzDXhIdIMD1vytMe_lOxO67c=&xsec_source=pc_user" target="_blank">Xiaohongshu</a> ｜
 <img src="./assets/x.png" width="14px" style="display:inline;"> <a href="https://x.com/ruc_ytz/status/2058737503948153230" target="_blank">X</a>
 </p>
